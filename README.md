@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project # FitnessApp
+# FitnessApp (Projeto em andamento)
 
-Bem-vindo ao projeto Academia Online! Este é um aplicativo web que permite aos usuários criar e personalizar seus próprios treinos de academia. Com uma interface intuitiva e amigável, você pode acessar facilmente suas rotinas de exercícios a qualquer momento.
+Este é um aplicativo web que permite aos usuários criar e personalizar seus próprios treinos de academia. Com uma interface intuitiva e amigável, você pode acessar facilmente suas rotinas de exercícios a qualquer momento.
 
 ## Funcionalidades
 
