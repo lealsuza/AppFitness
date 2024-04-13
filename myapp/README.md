@@ -11,7 +11,7 @@ Bem-vindo ao projeto Academia Online! Este é um aplicativo web que permite aos 
 
 ## Para usar este projeto, basta clonar o repositório e instalar as dependências:
 
-```git clone https://github.com/lealsuza/tech-jobs```
+```git clone https://github.com/lealsuza/fitnessapp```
 ```cd myapp```
 ```npm install```
 
