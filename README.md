@@ -1,4 +1,4 @@
-# FitnessApp (Projeto em andamento)
+# AppFitness (Projeto em andamento)
 
 Este é um aplicativo web que permite aos usuários criar e personalizar seus próprios treinos de academia. Com uma interface intuitiva e amigável, você pode acessar facilmente suas rotinas de exercícios a qualquer momento.
 
