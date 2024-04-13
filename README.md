@@ -7,7 +7,11 @@ Este é um aplicativo web que permite aos usuários criar e personalizar seus pr
 - Login de Usuário: Acesse sua conta para começar a criar e gerenciar seus treinos personalizados.
 - Criação de Treino: Crie treinos personalizados com base em suas necessidades e metas de condicionamento físico.
 - Detalhes do Treino: Adicione exercícios específicos, repetições, séries e outras informações detalhadas para cada parte do seu treino.
-- Tecnologias Utilizadas: Desenvolvido com React, Next.js e JavaScript para uma experiência web dinâmica e responsiva.
+
+## Tecnologias Utilizadas:
+
+- Desenvolvido com JavaScript, React, Next.js e MongoDB para uma experiência web dinâmica e responsiva.
+
 
 ## Para usar este projeto, basta clonar o repositório e instalar as dependências:
 
